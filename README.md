@@ -1,0 +1,2 @@
+- I'm Nick Snow
+- I make games in Godot
