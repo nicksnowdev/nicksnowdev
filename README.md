@@ -1,3 +1,1 @@
-I make random projects with p5.js and upload them to my website, one-lemon.com
-
-I also dabble in game development with Godot.
+I make random projects with p5.js and upload them to openprocessing.org, and I eventually plan to host them on my own website.
